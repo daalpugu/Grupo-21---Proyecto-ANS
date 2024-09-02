@@ -10,7 +10,7 @@ Se utilizan las siguientes carpetas
 Posee los archivos base con los cuales se realiza la revisión preliminar de los datos, sivigila_Desnutricion.json, esta base cuenta con el diccionario de las variables que posee la base de datos sivigila_desnutricion.csv.
 
 # src: Scripts de código fuente para procesamiento y análisis de datos.
-Posee el archivo .ipynb en donde se tiene el código relacionado, con la lectura de las bases que se encuentran en la carpeta, posterior a esto se da inicio al análisis preliminar de los datos contenidos en la base de datos sivigila_desnutricion.csv.
+Posee scrips del código relacionado, con la lectura de las bases que se encuentran en la carpeta, posterior a esto código relacionado con el análisis preliminar de los datos contenidos en la base de datos sivigila_desnutricion.csv.
 
 # results: Resultados obtenidos de los análisis, incluyendo gráficos y tablas.
 Posee el archivo .ipynb tanto con el src junto con los análisis, gráficos y tablas, para tener mayor información puedes abrir el archivo en donde se encontrara de una manera mas detallada a información. 
