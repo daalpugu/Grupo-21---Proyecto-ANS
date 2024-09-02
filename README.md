@@ -12,13 +12,10 @@ Posee los archivos base con los cuales se realiza la revisión preliminar de los
 # src: Scripts de código fuente para procesamiento y análisis de datos.
 Posee scrips del código relacionado, con la lectura de las bases que se encuentran en la carpeta, posterior a esto código relacionado con el análisis preliminar de los datos contenidos en la base de datos sivigila_desnutricion.csv.
 
-# results: Resultados obtenidos de los análisis, incluyendo gráficos y tablas.
-Posee el archivo .ipynb tanto con el src junto con los análisis, gráficos y tablas, para tener mayor información puedes abrir el archivo en donde se encontrara de una manera mas detallada a información. 
-
 # docs: Documentación adicional y reportes relacionados con el proyecto.
 Posee el archivo .docx en donde se expresa el contenido que sustenta el desarrollo del proyecto, el mismo cuenta con: Resumen, Introducción, Revisión preliminar de la literatura, Descripción de los datos, Propuesta metodológica, Bibliografía.
 
-# notebooks: Jupyter Notebooks para una visualización interactiva de los análisis.
+# notebooks: Jupyter Notebooks para una visualización interactiva de los análisis, junto con los resultados obtenidos de los análisis, incluyendo gráficos y tablas.
 Posee el archivo .ipynb en donde se construyó el código, se realizó el análisis y revisión preliminar de los datos. 
 
 
