@@ -6,5 +6,19 @@ La desnutrición en menores de 5 años en Colombia es un problema que se viene p
 
 Se utilizan las siguientes carpetas 
 
-# Data
-Posee los archivos base con los cuales se realiza la revisión preliminar de los datos 
+# data: Contiene todos los conjuntos de datos utilizados o generados durante el proyecto.
+Posee los archivos base con los cuales se realiza la revisión preliminar de los datos, sivigila_Desnutricion.json, esta base cuenta con el diccionario de las variables que posee la base de datos sivigila_desnutricion.csv.
+
+# src: Scripts de código fuente para procesamiento y análisis de datos.
+Posee el archivo .ipynb en donde se tiene el código relacionado, con la lectura de las bases que se encuentran en la carpeta, posterior a esto se da inicio al análisis preliminar de los datos contenidos en la base de datos sivigila_desnutricion.csv.
+
+# results: Resultados obtenidos de los análisis, incluyendo gráficos y tablas.
+Posee el archivo .ipynb tanto con el src junto con los análisis, gráficos y tablas, para tener mayor información puedes abrir el archivo en donde se encontrara de una manera mas detallada a información. 
+
+# docs: Documentación adicional y reportes relacionados con el proyecto.
+Posee el archivo .docx en donde se expresa el contenido que sustenta el desarrollo del proyecto, el mismo cuenta con: Resumen, Introducción, Revisión preliminar de la literatura, Descripción de los datos, Propuesta metodológica, Bibliografía.
+
+# notebooks: Jupyter Notebooks para una visualización interactiva de los análisis.
+Posee el archivo .ipynb en donde se construyó el código, se realizó el análisis y revisión preliminar de los datos. 
+
+
