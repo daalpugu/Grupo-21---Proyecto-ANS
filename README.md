@@ -20,5 +20,5 @@ Posee el archivo .ipynb en donde se construyó el código, se realizó el análi
 
 
 
-# El desarrollo del proyecto se encuentra en su primera fase, exploratoria; teniendo estos resultados se procederá a verificar la utilización de los modelos de aprendizaje no supervisado para lograr responder a la pregunta que nos estamos planteando. 
+# El desarrollo del proyecto se encuentra en su primera fase, exploratoria; teniendo estos resultados se procederá a verificar la utilización de los modelos de aprendizaje no supervisado para lograr responder a la pregunta que está planteada en el inicio del README. 
 
