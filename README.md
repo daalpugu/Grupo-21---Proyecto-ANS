@@ -22,3 +22,5 @@ Posee el archivo .docx en donde se expresa el contenido que sustenta el desarrol
 Posee el archivo .ipynb en donde se construyó el código, se realizó el análisis y revisión preliminar de los datos. 
 
 
+El desarrollo del proyecto se encuentra en su primera fase, exploratoria; teniendo estos resultados se procederá a verificar la utilización de los modelos de aprendizaje no supervisado para lograr responder a la pregunta que nos estamos planteando. 
+
