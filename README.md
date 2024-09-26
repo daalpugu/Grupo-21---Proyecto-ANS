@@ -30,11 +30,16 @@ Posee el archivo .ipynb en donde se construyó el código, se realizó el análi
 Una vez realizado todo el proceso de entendimiento del problema, formulación de la pregunta, transformación y prueba de los datos, se procedió a realizar el análisis exploratorio preliminar de los datos. Teniendo esto, se realizó el cálculo de la regresión lineal (XGBoost, Catboost y el análisis exploratorio de estos resultados), obtenidos los resultados procedemos a implementar PCA con las bases de datos obtenidas, se realizan análisis con variables categoricas (tipo dummie) y sin estas, se realizan pruebas en donde podemos concluir que estas variables no aportan al modelo, por tal razón las omitimos y procedemos a correr el modelo y dar solución a la respuesta planteada previamente, en líneas generales podemos concluir que: 
 
 
-•	El manejo los parámetros e hiperparámetros de los diversos modelos no tiene una manera comprobada que nos indique como debemos incluirlos para obtener buenos resultados, la implementación de buenos hiperparámetros se consigue con la experimentación, conocimiento y entendimiento de los datos del negocio o problema.   
+•	El manejo los parámetros e hiperparámetros de los diversos modelos no tiene una manera comprobada que nos indique como debemos incluirlos para obtener buenos resultados, la implementación de buenos hiperparámetros se consigue con la experimentación, conocimiento y entendimiento de los datos del negocio o problema.  
+
 •	Es importante considerar la cantidad de datos a procesar, ya que esto influye directamente en el costo computacional de los algoritmos utilizados. Por lo tanto, es necesario equilibrar el costo computacional con el rendimiento y la precisión del modelo, de manera que se puedan obtener resultados rápidos, confiables y que conduzcan a una solución coherente. 
+
 •	Las mayores ventajas que brinda el aprendizaje no supervisado, es la facilitación del agrupamiento de los datos, este fue parte fundamental para dar solución a la pregunta que planteada para el desarrollo del proyecto. 
+
 •	Al realizar proyectos de análisis de datos, es recomendable abordar la solución desde diversas perspectivas para corroborar resultados y seleccionar la opción más eficiente en términos de recursos. Además, la solución o el enfoque inicial pueden cambiar a medida que avanza el proyecto, ya que es común enfrentarse a desafíos como la calidad de los datos, la correcta aplicación de los modelos, el costo computacional y la interpretabilidad de los resultados, entre otros factores.
+
 •	Para realizar futuros análisis se sugiere utilizar una muestra de información más amplia, incluyendo información geográfica y niños con diferentes diagnósticos, no necesariamente desnutrición.
+
 •	Al concluir el ejercicio, se observa que el clustering con K-medias tiene el mejor desempeño, se logran observar tres grupos: uno con mejores características físicas actuales y buena alimentación, pero con condiciones al nacer estándar; otro con condiciones estándar al nacer, pero menor desarrollo corporal y condiciones alimentarias; y un tercero más disperso, con bajas condiciones al nacer y un amplio espectro de desarrollo físico y condiciones alimentarias, desde rangos deficientes hasta condiciones un poco más allá del estándar.
 
 
