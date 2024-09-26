@@ -25,9 +25,11 @@ Posee el archivo .pdf en donde se expresa el contenido que sustenta el desarroll
 Posee el archivo .ipynb en donde se construyó el código, se realizó el análisis y revisión preliminar de los datos. 
 
 
-# CONCLUSIONES
+# RESUMEN Y CONCLUSIONES
 
-# Una vez realizado todo el proceso de entendimiento del problema, formulación de la pregunta, transformación y prueba de los datos, se procedió a realizar el análisis exploratorio preliminar de los datos. Teniendo esto, se realizó el cálculo de la regresión lineal (XGBoost, Catboost y el análisis exploratorio de estos resultados), obtenidos los resultados procedemos a implementar PCA con las bases de datos obtenidas, se realizan análisis con variables categoricas (tipo dummie) y sin estas, se realizan pruebas en donde podemos concluir que estas variables no aportan al modelo, por tal razón las omitimos y procedemos a correr el modelo y dar solución a la respuesta planteada previamente, en líneas generales podemos concluir que: 
+Una vez realizado todo el proceso de entendimiento del problema, formulación de la pregunta, transformación y prueba de los datos, se procedió a realizar el análisis exploratorio preliminar de los datos. Teniendo esto, se realizó el cálculo de la regresión lineal (XGBoost, Catboost y el análisis exploratorio de estos resultados), obtenidos los resultados procedemos a implementar PCA con las bases de datos obtenidas, se realizan análisis con variables categoricas (tipo dummie) y sin estas, se realizan pruebas en donde podemos concluir que estas variables no aportan al modelo, por tal razón las omitimos y procedemos a correr el modelo y dar solución a la respuesta planteada previamente, en líneas generales podemos concluir que: 
+
+
 •	El manejo los parámetros e hiperparámetros de los diversos modelos no tiene una manera comprobada que nos indique como debemos incluirlos para obtener buenos resultados, la implementación de buenos hiperparámetros se consigue con la experimentación, conocimiento y entendimiento de los datos del negocio o problema.   
 •	Es importante considerar la cantidad de datos a procesar, ya que esto influye directamente en el costo computacional de los algoritmos utilizados. Por lo tanto, es necesario equilibrar el costo computacional con el rendimiento y la precisión del modelo, de manera que se puedan obtener resultados rápidos, confiables y que conduzcan a una solución coherente. 
 •	Las mayores ventajas que brinda el aprendizaje no supervisado, es la facilitación del agrupamiento de los datos, este fue parte fundamental para dar solución a la pregunta que planteada para el desarrollo del proyecto. 
