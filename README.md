@@ -2,7 +2,13 @@
 Aprendizaje No Supervisado en la Identificación de Patrones de Desnutrición Infantil en Medellín
 
 # Introducción
-La desnutrición en menores de 5 años en Colombia es un problema que se viene presentando desde años atrás, mediante el estudio de los datos obtenidos de la página web datoscolombia.org, se realizará un análisis mediante la utilización de Aprendizaje no supervisado, respondiendo a la pregunta ¿Cómo pueden las técnicas de clustering basadas en variables de salud y nutrición, demográficas y socioeconómicas ayudar a identificar y diferenciar perfiles de desnutrición en niños menores de 5 años en Medellín, y cuáles son los factores que más contribuyen al diagnóstico de desnutrición?
+El problema de desnutrición infantil en Medellín afecta gravemente a los niños menores de cinco años, impactando su desarrollo físico y cognitivo. Este proyecto busca determinar: ¿Cómo las técnicas de Clustering basadas en variables de salud y nutrición pueden identificar perfiles de desnutrición en esta población? La respuesta permitiría gestionar políticas públicas más efectivas y dirigidas, optimizando la asignación de recursos. 
+
+En el contexto organizacional de la salud pública en Medellín, es crucial entender mejor las formas de desnutrición para diseñar intervenciones adecuadas. A nivel internacional, estudios como los de Striessnig y Bora (2019) en India han usado PCA y Clustering para identificar patrones de malnutrición basados en factores como el acceso a los recursos y educación. Leyso y Palatino (2020), en Filipinas, aplicaron modelos de escaneo espacial para identificar Clusters de bajo peso y sobrepeso. En Etiopía, Bitew et al. (2021) usaron modelos de Machine Learning como XGBTree y K-Nearest Neighbours para predecir factores claves de desnutrición. 
+
+Por otro lado, en Colombia, Castillo y Suarez.Ortegón (2023) investigaron la malnutrición infantil utilizando regresión logística, identificando factores demográficos importantes. Loaiza et al (2023), en Medellín, emplearon minería de datos y Machine Learning para encontrar correlaciones entre condiciones sociales y de salud. 
+
+Aun cuando varios de los estudios anteriores utilizaron desde modelos de regresión hasta Machine Learning para identificar factores de riesgo y patrones de malnutrición, las limitaciones radican en la necesidad de contar con datos precisos y actualizados. Este proyecto se centra específicamente en la aplicación de técnicas de Clustering para agrupar poblaciones según características similares de desnutrición, permitiendo una intervención más dirigida y personalizada por las autoridades de salud en Medellín. 
 
 Se utilizan las siguientes carpetas 
 
